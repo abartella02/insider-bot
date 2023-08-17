@@ -1,4 +1,5 @@
-**InsiderBot:** A personal project that I created when I began trading in the stock market
+# InsiderBot
+### A personal project that I created when I began trading in the stock market
 [<img align="right" alt="Python" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />][python-org]
   - Uses Discord for input and output
   - Reports information on a specified stock (50 day average, daily high, daily low, yield, etc)
